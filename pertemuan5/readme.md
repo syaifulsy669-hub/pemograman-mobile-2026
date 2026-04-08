@@ -29,3 +29,15 @@ langkah 2
 
 Saya membuat repositori GitHub dan berhasil mengupload proyek menggunakan git.
 ---
+Praktikum 3
+
+langkah 1
+
+![WhatsApp Image 2026-04-09 at 01 12 24](https://github.com/user-attachments/assets/0821576e-07a0-4f3d-8ed9-fcd61532dde6)
+
+
+langkah 2
+
+![WhatsApp Image 2026-04-09 at 01 13 16](https://github.com/user-attachments/assets/47e70e03-8de9-4a12-823a-264657fd1311)
+
+---
