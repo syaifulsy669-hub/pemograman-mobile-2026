@@ -1,7 +1,7 @@
 Tugas Praktikum 05 Flutter
 
-Nama: Aprizal Buntumadika
-Nim : H0724516
+Nama: Muhammad Syaiful
+Nim : H0724508
 
 Praktikum 1: Membuat Project Flutter
  Hasil
