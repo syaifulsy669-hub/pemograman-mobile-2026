@@ -64,3 +64,14 @@ langkah 4(setelah di riset)
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/40511165-6b76-4ca5-bba1-caf74c015967" />
 
 Saya mempelajari Stateless dan Stateful widget.
+---
+
+Praktikum 5
+
+
+![WhatsApp Image 2026-04-09 at 03 26 05](https://github.com/user-attachments/assets/db9540e4-ebd6-4ead-9b5a-f4e6cfe604ea)
+
+
+
+Saya menggunakan widget Text, Icon, dan Column untuk membuat tampilan sederhana.
+
