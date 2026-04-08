@@ -20,6 +20,7 @@ Saya membuat project Flutter menggunakan perintah flutter create dan berhasil me
 ------
 Praktikum 2:GitHub
 Hasil
+
 langkah 1
 ![WhatsApp Image 2026-04-09 at 00 43 03](https://github.com/user-attachments/assets/9e138f03-73e9-450e-814b-f4a2139350c5)
 
@@ -40,4 +41,26 @@ langkah 2
 
 ![WhatsApp Image 2026-04-09 at 01 13 16](https://github.com/user-attachments/assets/47e70e03-8de9-4a12-823a-264657fd1311)
 
+Saya menghubungkan HP dengan USB Debugging dan menjalankan aplikasi menggunakan flutter run.
 ---
+
+Praktikum 4
+
+hasil:
+
+langkah 1
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/43f0bbaa-8c64-4813-9f50-cca76fa81f80" />
+
+
+langkah 2
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/58c4f529-bcc2-4980-99cd-2047fdb99f30" />
+
+
+langkah 3
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/51e92eff-30d7-4ab3-a739-2fa1babd8752" />
+
+
+langkah 4(setelah di riset)
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/40511165-6b76-4ca5-bba1-caf74c015967" />
+
+Saya mempelajari Stateless dan Stateful widget.
