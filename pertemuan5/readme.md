@@ -21,5 +21,11 @@ Saya membuat project Flutter menggunakan perintah flutter create dan berhasil me
 Praktikum 2:GitHub
 Hasil
 langkah 1
-![WhatsApp Image 2026-04-08 at 15 06 04](https://github.com/user-attachments/assets/9e9dd482-aee3-4c2d-81ff-598e8b8e7981)
+![WhatsApp Image 2026-04-09 at 00 43 03](https://github.com/user-attachments/assets/9e138f03-73e9-450e-814b-f4a2139350c5)
+
 langkah 2
+![WhatsApp Image 2026-04-09 at 00 49 13](https://github.com/user-attachments/assets/81442b40-5dea-49eb-b029-b8b7416bf6bc)
+
+
+Saya membuat repositori GitHub dan berhasil mengupload proyek menggunakan git.
+---
